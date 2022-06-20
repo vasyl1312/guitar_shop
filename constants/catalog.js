@@ -2,13 +2,13 @@ const CATALOG = [
   {
     id: 'el1',
     name: 'Гітара акустична Yamaha F310',
-    image: 'https://i.ibb.co/THr4dDx/yamaha.jpg',
+    image: 'https://i.ibb.co/Bc61MWr/yamaha.png',
     price: 4499,
   },
   {
     id: 'el2',
     name: 'Електрогітара Ibanez GRX20 BKN',
-    image: 'https://i.ibb.co/3p4fNrk/ibanez.jpg',
+    image: 'https://i.ibb.co/Fs0Qnk2/ibanez.png',
     price: 7623,
   },
   {
