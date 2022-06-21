@@ -14,5 +14,5 @@ fetch('http://myjson.dit.upm.es/api/bins/409x')
     render()
   })
   .catch((error) => {
-    console.log(error)
+    errorPage.render()
   })
